@@ -1,0 +1,19 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.list {
+  list-style-type: none;
+  font-size: 18px;
+  color: #333333;
+  font-weight: 800;
+}
+.list_item {
+  padding: 15px;
+  outline: 1px dashed #ff0000;
+  border-radius: 5px;
+  text-align: center;
+  margin-bottom: 5px;
+}

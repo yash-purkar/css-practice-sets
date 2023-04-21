@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+#heading {
+  font-size: 36px;
+  color: #333333;
+  margin-bottom: 20px;
+}
+
+.text {
+  font-size: 18px;
+  color: #666666;
+  line-height: 1.5;
+}

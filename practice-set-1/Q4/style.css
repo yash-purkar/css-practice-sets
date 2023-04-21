@@ -1,0 +1,17 @@
+body {
+  font-family: sans-serif;
+}
+
+.inputEmail {
+  border: 1px solid #cccccc;
+  padding: 10px;
+  font-size: 18px;
+  margin-right: 10px;
+}
+
+.submitButton {
+  background-color: #333333;
+  color: #ffffff;
+  font-size: 18px;
+  padding: 10px 20px;
+}

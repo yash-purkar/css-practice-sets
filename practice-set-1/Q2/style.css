@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.list {
+  list-style: none;
+  font-size: 18px;
+  color: #333333;
+}
+
+.list_item {
+  padding: 10px;
+  border: solid #cccccc;
+  border-radius: 5px;
+  margin-bottom: 5px;
+}
