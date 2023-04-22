@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.card {
+  box-shadow: 0px 4px 8px lightgray;
+  width: 300px;
+  text-align: center;
+  padding: 1rem;
+  margin: 5rem;
+}
+
+.sub-heading {
+  margin-bottom: 3px;
+}
+
+.price {
+  display: inline-block;
+  background-color: #f8f9f8;
+  padding: 6px 16px;
+  border-radius: 5px;
+  margin-bottom: 1.5rem;
+}
+
+.list {
+  list-style-type: none;
+  color: #5e5e5e;
+}
+.list_item {
+  margin-bottom: 1.3rem;
+}
+
+.signUp-btn {
+  border: none;
+  background-color: #fe4a4a;
+  color: #fff;
+  font-size: 17px;
+  padding: 6px 16px;
+  border-radius: 5px;
+}

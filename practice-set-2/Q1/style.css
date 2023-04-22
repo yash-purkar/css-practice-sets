@@ -1,0 +1,28 @@
+body {
+  font-family: sans-serif;
+}
+
+.card {
+  width: 400px;
+  height: 500px;
+}
+
+img {
+  width: 400px;
+  height: 500px;
+  border-radius: 6px;
+}
+
+h1,
+p {
+  margin: 0px;
+  margin-bottom: 6px;
+}
+.inner-container {
+  color: #fff;
+  background-color: rgba(231, 221, 221, 0.384);
+  position: relative;
+  bottom: 133px;
+  text-align: center;
+  padding: 2rem;
+}
