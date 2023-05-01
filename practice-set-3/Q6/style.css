@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+.main-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  width: 350px;
+  height: 330px;
+  box-shadow: 0px 4px 8px rgb(0, 0, 0);
+  border-radius: 5px;
+}
+
+.info {
+  display: flex;
+  padding: 1rem;
+}
+
+.outer-img {
+  width: 100%;
+}
+
+.inner-img {
+  /* object-fit: fill; */
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin-right: 14px;
+}
+
+.name {
+  margin-bottom: 4px;
+  margin-top: 3px;
+}
+.work {
+  color: darkgray;
+}
