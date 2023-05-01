@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.main-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  width: 400px;
+  height: 500px;
+  box-shadow: 0px 2px 8px rgb(0, 0, 0.1);
+  border-radius: 5px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.heading,
+.sub-heading,
+.description {
+  margin-left: 8px;
+}
+
+.description {
+  line-height: 1.5rem;
+}
