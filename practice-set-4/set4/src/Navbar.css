@@ -1,0 +1,30 @@
+.navigation {
+  margin: auto;
+  width: 60%;
+  display: flex;
+  justify-content: space-around;
+  border-radius: 0.3rem;
+  padding: 1rem;
+  flex-wrap: wrap;
+  background-color: blueviolet;
+  position: sticky;
+  top: 0;
+  -webkit-border-radius: 0.3rem;
+  -moz-border-radius: 0.3rem;
+  -ms-border-radius: 0.3rem;
+  -o-border-radius: 0.3rem;
+}
+
+.nav-item {
+  display: inline-block;
+  padding: 0.5rem;
+  text-decoration: none;
+  font-size: 1.1rem;
+  color: #fff;
+  border-bottom: 2px solid blueviolet;
+}
+
+.active {
+  border-bottom: 2px solid #fff;
+  border-radius: 0.3rem;
+}

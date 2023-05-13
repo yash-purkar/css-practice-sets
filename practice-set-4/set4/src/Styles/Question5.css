@@ -1,0 +1,82 @@
+.font-bold {
+  font-weight: bold;
+}
+
+.containerq5 {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mainq5 {
+  max-width: 370px;
+  border: 4px solid #13c158;
+  padding: 1.5rem 1rem;
+}
+
+.heading {
+  font-size: 1.8rem;
+  margin-bottom: 0.7rem;
+}
+/*  */
+.item-detail {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.3rem;
+}
+
+.qty-price-box {
+  display: flex;
+  width: 38%;
+  justify-content: space-between;
+}
+
+.heads {
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.data {
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+/*  */
+.item-description {
+  width: 70%;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+
+/*  */
+.total-info {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.4rem;
+}
+
+.prices {
+  font-size: 0.9rem;
+}
+
+.grand-total,
+.grand-price {
+  font-size: 1.1rem;
+}
+
+/*  */
+.place-order-btn {
+  width: 100%;
+  border: 1px solid #fff;
+  background-color: #13c158;
+  text-transform: uppercase;
+  color: #fff;
+  padding: 0.5rem 0;
+  margin: 0.5rem 0 1.3rem 0;
+}
+
+.secured-by {
+  text-align: center;
+  font-style: italic;
+}
